@@ -1,0 +1,26 @@
+<!DOCTYPE cine [
+
+        <!ELEMENT videoteca (nombrevideo|ubicacion|pelicula+|fecha)+>
+        <!ELEMENT nombrevideo (#PCDATA)>
+        <!ELEMENT ubicacion (#PCDATA)>
+        <!ELEMENT pelicula (#PCDATA)>
+        <!ELEMENT fecha (#PCDATA)>
+
+        <!ELEMENT pelicula (titulo|sinopsis|reparto+|genero*|enlaceIMDB)+>
+        <!ATTLIST pelicula id CDATA #REQUIRED>
+        <!ATTLIST pelicula mins CDATA #REQUIRED>
+        <!ATTLIST pelicula estreno CDATA #REQUIRED>
+        <!ELEMENT titulo (#PCDATA)>
+        <!ELEMENT sinopsis (#PCDATA)>
+        <!ELEMENT reparto (#PCDATA)>
+        <!ELEMENT genero (#PCDATA)>
+        <!ELEMENT enlaceIMDB (#PCDATA)>
+
+
+        <!ELEMENT actor (nombreact|enlace)*>
+        <!ELEMENT nombreact (#PCDATA)>
+        <!ELEMENT enlace (#PCDATA)>
+
+
+
+        ]>
