@@ -16,11 +16,8 @@
         <!ELEMENT genero (#PCDATA)>
         <!ELEMENT enlaceIMDB (#PCDATA)>
 
-
         <!ELEMENT actor (nombreact|enlace)*>
         <!ELEMENT nombreact (#PCDATA)>
         <!ELEMENT enlace (#PCDATA)>
-
-
 
         ]>
