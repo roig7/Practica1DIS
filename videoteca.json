@@ -1,0 +1,36 @@
+{
+  "videoteca":{
+    "nombre":"Videoteca Peter",
+    "pelicula":{
+      "titulo":"Lluvia de albondigas",
+      "sinopsis":"Lluvia de comida",
+      "actores":{
+        "nombreAct":"Leonardo Di Caprio",
+        "enlaceWiki": "lsdkdksl",
+        "nombreAct":"Mario Casas",
+        "enlaceWiki": "lsdkdksl"
+      },
+      "genero":"Ficcion",
+      "enlace":"mckmdl"
+    },
+    "ubicacion":"Boadilla",
+    "fecha":"1 de nov 2020"
+
+  },
+  "videoteca":{
+    "nombre":"Videoteca Manolo",
+    "pelicula":{
+      "titulo":"Titanic",
+      "sinopsis":"Barco se hunde",
+      "actores":{
+        "nombreAct":"Peter la Anguila",
+        "enlaceWiki": "lsdkdksl"
+      },
+      "enlace":"dckmdl"
+    },
+    "ubicacion":"Pozuelo",
+    "fecha":"1 de nov 2020"
+
+  }
+
+}

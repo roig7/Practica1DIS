@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cine SYSTEM "videoteca.dtd">
+
+<cine>
+    <videoteca>
+        <nombre> Videoteca Peter</nombre>
+        <pelicula>
+            <titulo>LLuvia de Albondigas</titulo>
+            <sinopsis>LLuvia de comida</sinopsis>
+            <actores>
+                <nombreAct>Leonardo Di Caprio</nombreAct>
+                <enlaceWiki>ndlnclda</enlaceWiki>
+                <nombreAct>Mario Casas</nombreAct>
+                <enlaceWiki>alskdñlsak</enlaceWiki>
+            </actores>
+            <genero>Ficcion</genero>
+            <enlace>dmlkkdk</enlace>
+        </pelicula>
+        <ubicacion>Boadilla</ubicacion>
+    </videoteca>
+
+    <videoteca>
+        <nombre>Videoteca Manolo</nombre>
+        <pelicula>
+            <titulo>Titanic</titulo>
+            <sinopsis>Barco se hunde</sinopsis>
+            <actores>
+                <nombreAct>Peter la Anguila</nombreAct>
+                <enlaceWiki>jlzkdcslkc</enlaceWiki>
+            </actores>
+        </pelicula>
+        <ubicacion>Pozuelo</ubicacion>
+    </videoteca>
+</cine>
